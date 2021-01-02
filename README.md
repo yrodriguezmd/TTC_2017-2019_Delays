@@ -14,11 +14,11 @@ Univariate, bivariate and multivariate analyses were done, with emphasis on Time
 Autocorrelations were determined.  Linear regression was computed and plotted for delay frequency and duration.
 
 Collaborators:
-Rodriguez, Maria
-Lam, Timothy
-Krishnakumar, Sathya
-Sriaram, Arpana
-Leung, Timothy
+Maria Rodriguez, 
+Timothy Lam,
+Sathya Krishnakumar,
+Arpan Sriaram,
+Timothy Leung
 
 This was a group project submitted to the University of Toronto/ University of Waterloo/ Foundations of Data Science Professional Development Course, on the 13th of December, 2020.
 
